@@ -51,4 +51,4 @@ python main.py
 * When you leave again, type `!afk on`.
 
 ## 📜 License
-Provided "as-is". Free to use and modify.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
